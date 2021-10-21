@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VentanaDeLasRosas2.0</string>
+    <string name="titulo">Ventana de Las Rosas</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="ingresarCorreo">Ingrese su correo</string>
+    <string name="ingresarContraseña">Ingrese contraseña</string>
+    <string name="iniciar">Iniciar sesión</string>
+    <string name="hintCorreo">ejemplo@gmail.com</string>
+    <string name="hintClave">contraseña</string>
+</resources>
